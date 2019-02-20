@@ -1,0 +1,9 @@
+div {
+background-color:#4CAF50;
+padding:10px;
+}
+div.first {
+opacity:0.1;
+filter:alpha(opacity=10);
+
+}
